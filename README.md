@@ -1,14 +1,12 @@
 # AC 209B Final Project: Measuring Galaxies
-
-![](WriteUp/cover_im.png)
-
-### Spring 2020
-### Group 2
+### Spring 2020, Group 2:
 - Kaela Nelson
 - Kyra Ballard
 - Lauren Baker
 
 ## Overview
+
+![](WriteUp/cover_im.png)
 
 Most galaxies can be adequately modeled as a fuzzy blob with some size, shape, and brightness parameters. Understanding these morphology parameters can provide a deeper understanding of the Universe. For example, size and shape of galaxies can tell us about the Universe?s mass distribution and their brightness can tell us about the Universe?s origin and evolution. Standard parametric modeling techniques that have been used previously are limited in their generalizability to all galaxies, motivating the need for using deep convolutional neural networks for more robust estimates of galaxy morphology$^ 1$. 
 
