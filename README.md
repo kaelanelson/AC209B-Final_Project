@@ -1,6 +1,6 @@
 # AC 209B Final Project: Measuring Galaxies
-## Spring 2020
-## Group 2
+### Spring 2020
+### Group 2
 - Kaela Nelson
 - Kyra Ballard
 - Lauren Baker
