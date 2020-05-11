@@ -22,8 +22,8 @@ Images generated from GalSim can include noise to better represent night sky noi
 - Assess model performance on a test set of simulated images by comparing our model's prediction error of each parameter to the Cramér-Rao bound (CRB) and Jun's CAE prediction error for signal-to-noise (SNR) ratios of 30 and 60.
 
 ## Table of Contents
-1. [Exploratory Data Analysis](/Writeup/EDA.md)
-2. [Baseline Model](/Writeup/baseline_CNN.md)
-3. [Unet Model](/Writeup/Unet_modela.md)
-4. [Predictions on Simulated Data](/Writeup/Sim_data_preds.md)
-5. [Conclusion](/Writeup/conclusion.md)
+1. [Exploratory Data Analysis](/WriteUp/EDA.md)
+2. [Baseline Model](/WriteUp/baseline_CNN.md)
+3. [Unet Model](/WriteUp/Unet_modela.md)
+4. [Predictions on Simulated Data](/WriteUp/Sim_data_preds.md)
+5. [Conclusion](/WriteUp/conclusion.md)
