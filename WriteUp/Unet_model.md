@@ -11,9 +11,9 @@ This is the unet model architecture from the original paper<a id="note1" href="#
 
 #### Noisy Simulated Data
 
-![](Unet_model/noisy_preds.png)
+![](Unet_model/unet_noisy_preds.png)
 
-![](Unet_model/snr_preds.png)
+![](Unet_model/unnet_snr_preds.png)
 
 #### Non-noisy Simulated Data
 
