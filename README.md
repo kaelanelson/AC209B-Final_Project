@@ -1,6 +1,6 @@
 # AC 209B Final Project: Measuring Galaxies
 
-![](WriteUp/cover_im.png)
+![](WriteUp/cover_im.jpg)
 
 ### Spring 2020
 ### Group 2
