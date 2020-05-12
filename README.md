@@ -23,7 +23,7 @@ Images generated from GalSim can include noise to better represent night sky noi
 
 ## Table of Contents
 1. [Exploratory Data Analysis](/WriteUp/EDA.md)
-2. [Baseline Model](/WriteUp/baseline_CNN.md)
-3. [Unet Model](/WriteUp/Unet_modela.md)
+2. [Baseline Model](/WriteUp/baseline_cnn.md)
+3. [Unet Model](/WriteUp/Unet_model.md)
 4. [Predictions on Simulated Data](/WriteUp/Sim_data_preds.md)
 5. [Conclusion](/WriteUp/conclusion.md)
