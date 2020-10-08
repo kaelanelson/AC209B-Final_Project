@@ -1,7 +1,7 @@
 ## Unet Model
 
 ### Motivation
-The Unet model was initially created for image segmentation problems, where it outputs a complete high resolution image in which all the pixels are classified. We can tailor the unet model to categorizing galaxies, as it learns the ?what? info, or galaxy parameters, and captures the ?where? info, or the shape, orientation, and centering of the galaxies. 
+The Unet model was initially created for image segmentation problems, where it outputs a complete high resolution image in which all the pixels are classified. We can tailor the unet model to categorizing galaxies, as it learns the "what" info, or galaxy parameters, and captures the "where" info, or the shape, orientation, and centering of the galaxies. 
 
 ![](Unet_model/unet-architecture.png)
 
