@@ -8,9 +8,9 @@
 - Lauren Baker
 
 ## Overview
-Most galaxies can be adequately modeled as a fuzzy blob with some size, shape, and brightness parameters. Understanding these morphology parameters can provide a deeper understanding of the Universe. For example, size and shape of galaxies can tell us about the Universe's mass distribution and their brightness can tell us about the Universe's origin and evolution. Standard parametric modeling techniques that have been used previously are limited in their generalizability to all galaxies, motivating the need for using deep convolutional neural networks for more robust estimates of galaxy morphology^ {1}. 
+Most galaxies can be adequately modeled as a fuzzy blob with some size, shape, and brightness parameters. Understanding these morphology parameters can provide a deeper understanding of the Universe. For example, size and shape of galaxies can tell us about the Universe's mass distribution and their brightness can tell us about the Universe's origin and evolution. Standard parametric modeling techniques that have been used previously are limited in their generalizability to all galaxies, motivating the need for using deep convolutional neural networks for more robust estimates of galaxy morphology^{1}. 
 
-GalSim is an open-source software for simulating images of galaxies^ {2}. GalSim can generate mock images as a function of brightness and shape parameters. Specific parameters that are of interest to this project are: 
+GalSim is an open-source software for simulating images of galaxies^{2}. GalSim can generate mock images as a function of brightness and shape parameters. Specific parameters that are of interest to this project are: 
 - flux (brightness)
 - Sersic index and radius (shape)
 - g1 and g2 (shear, or shape distortion)
